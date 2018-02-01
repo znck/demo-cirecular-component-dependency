@@ -1,0 +1,22 @@
+{
+  "name": "demo-cirecular-component-dependency",
+  "version": "0.0.0",
+  "description": "``` bash",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/znck/demo-cirecular-component-dependency.git"
+  },
+  "keywords": [],
+  "author": "Rahul Kadyan <hi@znck.me> (https://znck.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/znck/demo-cirecular-component-dependency/issues"
+  },
+  "homepage": "https://github.com/znck/demo-cirecular-component-dependency#readme"
+}
